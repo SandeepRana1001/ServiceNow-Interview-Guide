@@ -1,0 +1,50 @@
+CSM
+
+Assignment 1:
+
+Practice foundational concepts of Accounts and Contacts in ServiceNow CSM and understand how
+customer data is structured.
+Assignment 1: Account Creation
+* Create Accounts: Customer, Partner.
+* Ensure all accounts are active.
+Assignment 2: Contact Creation
+* Create 3 Contacts.
+* Map 1 Contacts to the Customer Account.
+* Map 1 Contacts to the Partner Account.
+* Set one Primary Contact per Account.
+
+Also go through Plugin Installation process and Roles
+
+
+
+Assignment 2:
+
+1. Create a Partner Account, Contacts
+2. Create Products, Sold Products, Contracts, Entitlements
+3. Create Account Relationships for partner Account
+4. Create Account Team members
+
+
+Assignment 3:
+
+- create case as a Internal User and Customer
+- ⁠Go through Account Management Customer Relationships
+- ⁠Account Team members
+- ⁠Check Case state Management 
+- ⁠Check Auto Close Cases flow
+
+Assignment 4: 
+
+- Create Special Handling Notes for Customers
+- Go through Escalation Management process
+- Create Escalations for Cases and Accounts
+- Go through Case Task Creation process
+- Create separate SLA's for Escalations based on Severity
+
+Assignment 5:
+
+- Install Major Issue Management plugin
+- ⁠Explore MIM
+- ⁠Propose a Major case
+- ⁠Add child cases under parent once Major Case accepted 
+- ⁠Update properties if Field sync not happens
