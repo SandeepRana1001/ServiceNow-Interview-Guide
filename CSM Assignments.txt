@@ -1,6 +1,6 @@
 CSM
 
-Assignment 1:
+Assignment 1: Done
 
 Practice foundational concepts of Accounts and Contacts in ServiceNow CSM and understand how
 customer data is structured.
@@ -17,7 +17,7 @@ Also go through Plugin Installation process and Roles
 
 
 
-Assignment 2:
+Assignment 2: Done
 
 1. Create a Partner Account, Contacts
 2. Create Products, Sold Products, Contracts, Entitlements
@@ -41,7 +41,7 @@ Assignment 4:
 - Go through Case Task Creation process
 - Create separate SLA's for Escalations based on Severity
 
-Assignment 5:
+Assignment 5:Done
 
 - Install Major Issue Management plugin
 - ⁠Explore MIM
